@@ -21,3 +21,7 @@ Un despacho de abogados que quiere automatizar las demandas de sus clientes llen
 
 ![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/2.-persona_page-0001.jpg)
 
+### Publico objetivo
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/publico_objetivo.jpg)
+
