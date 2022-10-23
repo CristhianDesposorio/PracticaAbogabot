@@ -25,3 +25,23 @@ Un despacho de abogados que quiere automatizar las demandas de sus clientes llen
 
 ![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/publico_objetivo.jpg)
 
+### Wireframe
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/inicio.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/nosotros.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/servicios.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/contacto.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/login.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/registro_usuario.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/form_demanda.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/dashboard_cliente.png)
+
+![](https://github.com/CristhianDesposorio/PracticaAbogabot/blob/main/Wireframe/dashborad_abogado.png)
+
